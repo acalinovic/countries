@@ -1,6 +1,4 @@
 # Project exclude paths
 /venv/
-/.idea/
+.idea/
 *.pyc
-.idea/dbnavigator.xml
-.idea/vcs.xml
